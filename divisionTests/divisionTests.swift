@@ -12,13 +12,13 @@ class divisionTests: XCTestCase {
     
     let calculatorBrain = CalculatorBrain()
 
-    override func setUp() {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
-    }
-
-    override func tearDown() {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
-    }
+//    override func setUp() {
+//        // Put setup code here. This method is called before the invocation of each test method in the class.
+//    }
+//
+//    override func tearDown() {
+//        // Put teardown code here. This method is called after the invocation of each test method in the class.
+//    }
     
     func test_10DivideBy5MustBe2() {
         calculatorBrain.divideTwoNumbers(dividend: 10, divisor: 5) { (result, error) -> Void in

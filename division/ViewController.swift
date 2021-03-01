@@ -24,9 +24,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        calculOnline.calculateWithTwoNumbers(dividend: 10, divisor: 2) { (result: Float?, error: Error?) in
-            
-        }
+//        calculOnline.calculateWithTwoNumbers(dividend: 10, divisor: 0) { (result, error) -> () in
+//            print(error?.localizedDescription as Any)
+//        }
     }
 
 }

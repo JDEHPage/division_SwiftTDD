@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		03642D2025D47E64004FDC8D /* OnlineCalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03642D1F25D47E64004FDC8D /* OnlineCalculatorBrain.swift */; };
 		03642D2125D47E75004FDC8D /* OnlineCalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03642D1F25D47E64004FDC8D /* OnlineCalculatorBrain.swift */; };
-		03642D2225D47E75004FDC8D /* OnlineCalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03642D1F25D47E64004FDC8D /* OnlineCalculatorBrain.swift */; };
 		03642D2625D480A3004FDC8D /* OnlineCalculatorBrainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03642D2525D480A3004FDC8D /* OnlineCalculatorBrainTests.swift */; };
 		03C78D0A25C43258005BC082 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C78D0925C43258005BC082 /* AppDelegate.swift */; };
 		03C78D0C25C43258005BC082 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C78D0B25C43258005BC082 /* SceneDelegate.swift */; };
@@ -22,6 +20,8 @@
 		03C78D3A25C465E2005BC082 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C78D3925C465E2005BC082 /* CalculatorBrain.swift */; };
 		03C78D3B25C465E2005BC082 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C78D3925C465E2005BC082 /* CalculatorBrain.swift */; };
 		03C78D3C25C465E2005BC082 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C78D3925C465E2005BC082 /* CalculatorBrain.swift */; };
+		03F4EB7325E5127C009DE411 /* OnlineCalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03642D1F25D47E64004FDC8D /* OnlineCalculatorBrain.swift */; };
+		03F4EB7425E5127C009DE411 /* OnlineCalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03642D1F25D47E64004FDC8D /* OnlineCalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -274,7 +274,7 @@
 			files = (
 				03C78D0E25C43258005BC082 /* ViewController.swift in Sources */,
 				03C78D0A25C43258005BC082 /* AppDelegate.swift in Sources */,
-				03642D2025D47E64004FDC8D /* OnlineCalculatorBrain.swift in Sources */,
+				03F4EB7325E5127C009DE411 /* OnlineCalculatorBrain.swift in Sources */,
 				03C78D3A25C465E2005BC082 /* CalculatorBrain.swift in Sources */,
 				03C78D0C25C43258005BC082 /* SceneDelegate.swift in Sources */,
 			);
@@ -297,7 +297,7 @@
 			files = (
 				03C78D3C25C465E2005BC082 /* CalculatorBrain.swift in Sources */,
 				03C78D2C25C4325B005BC082 /* divisionUITests.swift in Sources */,
-				03642D2225D47E75004FDC8D /* OnlineCalculatorBrain.swift in Sources */,
+				03F4EB7425E5127C009DE411 /* OnlineCalculatorBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
